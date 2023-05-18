@@ -16,5 +16,8 @@
     "cordova-plugin-statusbar",
     "ionic-plugin-keyboard"
   ],
-  "cordovaPlatforms": []
+  "cordovaPlatforms": [],
+  "dependencies": {
+    "sweetalert2": "^11.7.5"
+  }
 }
